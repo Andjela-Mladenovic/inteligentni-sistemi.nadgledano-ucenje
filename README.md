@@ -15,7 +15,7 @@ Analizirana su dva dataseta: Heart Disease.
 - matplotlib / seaborn
 
 ## Struktura projekta
-- data/ – datasetovi
+- data/ – dataset
 - notebooks/ – Jupyter notebook fajlovi
 - README.md
 
